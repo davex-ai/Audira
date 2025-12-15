@@ -16,7 +16,7 @@ body{
     background-color: var(--bg-color);
     color: var(--black-color);
     font-family: var(--heading-font);
-    font-size: 18;
+    font-size: 18px;
     line-height: 1.5;
 }
 

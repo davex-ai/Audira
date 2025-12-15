@@ -126,7 +126,7 @@ ScrollTrigger.matchMedia({
             ease: 'power1.inOut',
         });
 
-        let split = SplitText.create('#section! .heading', {
+        let split = SplitText.create('#section1 .heading', {
             type: 'chars, words, lines',
             mask: 'lines'
         });
