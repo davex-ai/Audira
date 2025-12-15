@@ -242,4 +242,21 @@ header .btn{
 
 #section6 img{ box-shadow: 10px 10px 30px ;}
 #section6 p{margin-bottom: 1rem;}
-#section6{}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 0;
+    border-top: 2px solid var(--primary-color);
+}
+
+footer .logo{
+    max-width: 132px; 
+}
+
+footer .social{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
