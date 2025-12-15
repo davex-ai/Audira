@@ -57,10 +57,10 @@ header nav {
     align-items: center;
 }
 
-header .log0{
+header .logo{
     max-width: 132px;
 }
 
 header .btn{
     background-color: var(--secondary-color);
-}
+} 
